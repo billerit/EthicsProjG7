@@ -1,0 +1,244 @@
+For today,
+
+ * Read the papers,
+    - Important points,
+    - Surprise
+    - Problems
+    - Ideas
+
+ * Describe "lessons learned",
+    - some of the most important/interesting points 
+      from the articles/discussion
+    - support them with examples/experiences
+    - will be presented to class.
+
+ * Prepare for analysis of "the case":
+    - Select one from the papers.
+    - Group selects one to analyze.
+
+ * Consider 1-2 questions to class.
+    - The questions should spark discussion.
+
+The report, which we will present to class, will contain
+
+ * Lessons Learned,
+ * Analysis of the chosen case,
+ * 1-2 Questions to spark discussion.
+
+
+Pain 2008:
+Playing Well With Industry
+--------------------------
+
+Yamaha: Computers playing music like humans do.
+
+[[Lure of industry money]]
+
+Industry's goals: To profit.
+ * Often align well with interests of researchers
+ * ... but rarely perfectly.
+
+More than 1/4 life science researchers have received support through
+industry grant agreement and research contracts.
+
+Government funding runs low; Deep pockets of private sector is
+alluring.
+
+Industry helps bring the result of science into the market (medicine).
+
+But Industry's *PROFIT* motive can affect research.
+ * Tobacco industry funding biased research to improve public image.
+ * Oil/Gas companies have too much control over
+    - choice of on-campus research
+    - Intellectual Property rights,
+    - Power to review/delay publications.
+ * Research cannot disfavour the company funding it.
+ * Cannot share the data.
+ * Sweep negative results under the rug (drug has bad effects => don't
+   publish it)
+
+Some of these exist within research institutions anyways, though.
+
+[[Industry gifts: A free lunch?]]
+
+Gifts of equipment/fellowship/grant from industry with few strings
+attached is common in the research world.
+
+Often, however, there are strings. Sometimes they are not even written
+into the contracts.
+
+almost 1/2 life science researchers have received gifts from
+industry. Here are some strings:
+ * Only use gifts for what company allows.
+ * Test company products.
+ * Company reviews papers before publication.
+ * Company owns patentable results.
+
+It is in the researcher's interest to please the company.
+
+Industry checks on progress regularly.
+
+... but so does the government.
+
+[[Strings]]
+
+Hazardous way to get company money: Work on projects of mutual
+interest. You WILL have to trade away some freedom.
+ * for instance, data- and result-reporting.
+
+What compromises are okay?
+
+  "Accepting industry money is fine as long as academics don't
+   compromise the academic missions of their universities"
+
+Tipping point: When cooperation with industry compromises:
+
+  "promote the public good through training students and pursuing
+   research on important issues"
+
+Examples:
+ * Delay a student's progress towards a degree
+ * Focus from broad questions to focused questions of little interest
+   to almost anyone except your company
+
+One of most quarrelsome issues: IP (INTELLECTUAL PROPERTY). Willard
+agrees.
+
+Willard: Aalborg University can claim ownership of *anything* that you
+do when you are employed there. Granted, the policy is that they
+choose not to if you open-source your work, but still.
+
+What most big-heads agree on: Universities keep IP rights, Industry is
+allowed to commercialize innovations.
+
+Right of first refusal: If you give it to A, then if you wish to sell
+your idea, you must first ask A if they plan on profiting on
+it. Universities often give this to companies.
+
+
+
+Resnik 2006:
+Some Recent Challenges to Openness and Freedom in Scientific
+Publication
+---------------------------------------------------------------
+
+Private sector sponsors over 1/2 of R&D in the world.
+
+Business money into science:
+ + Benefitted researchers, universities, business and society
+ - Openness and fairness in research
+
+To industry, research is a necessary means to *PROFIT*. Openness and
+freedom can be thrown out the window for the sake of profit.
+
+Willard: Case example: Researcher hired by industry.
+
+Scientist working at company:
+
+  "Company will usually make him sign a contract in which he agrees
+   that the company owns all of his data and has the authority to
+   review and approve any of his publications."
+
+Why would industry want to prevent researchers from publishing
+results?
+
+ 1. IP. If the result (invention) is published, the idea is not novel
+    anymore, so the industry cannot patent it.
+ 2. Maintain secrecy to secure competitive advantage / silence
+    incriminating results.
+
+Willard: Case: IP.
+ * In many fields, distance from theory to product is great.
+ * In computer science, the distance is 0.
+ * This one thing a computer scientist can do, even in his spare time,
+   is owned by the university.
+
+Case: Tobacco industry. {DeNobel, Mele} working for Morris.
+ * {DeNobel, Mele} discover that Nicotine is highly addivtive.
+ * {DeNobel, Mele} discover a substance increasing addictiveness while
+   making cigarettes healthier for blood vessels.
+ * Were not allowed to discuss their results, until much later, when a
+   congressman overruled the contract.
+
+Case: Useless drugs. Dong, working for Boots.
+ * Dong finds that Synthroid drug is less useful than general,
+   main-stream drugs
+ * US would save millions to just use the main-stream drugs.
+ * Boots threatened to sue Dong, and spent 2 years discrediting the
+   paper. Dong eventually pulled the paper from publication.
+
+Case: Dangerous drug. Olivieri+ vs. ApotexInc.
+ * Paper on "deferiprone", reporting that the drug was effective at
+   reducing total body iron stores, with manageable side effects.
+ * Months later, Olivieri+ discover liver iron in patients is
+   dangerously high. Could lead to heart failure.
+ * Olivieri wanted to notify the "research ethics board", so patients
+   could learn about this. She did...
+ * Consequence: ApotexInc terminated study, and withdrew all supplies
+   of the drug. Threatened Olivieri+ legal actions if she told
+   patients, or scientific community. ApotexInc + hospital tried to
+   discredit her work, and ruin her carreer.
+
+Morale?
+
+  "universities should not allow their faculty to sign contracts that
+   grant private companies the right to block the publication of
+   research conducted on campus.  No private company should be able to
+   suppress academic research."
+
+[[Private industry and access to data from published research]]
+
+Industry a threat to search for truth: Access to data after
+publication.
+
+Reasons scientists may refuse to share data:
+ * protect unpublished work
+ * secure priority
+ * protect IP rights
+ * data sharing inconvenient / expensive.
+ * data is inconclusive / unconfirmed.
+
+Case: Cold Fusion. {Pons, Fleischmann}
+
+ * Believed they had discovered how to produce fusion at room
+   temperature in an electrolytic solution.
+ * Presented incomplete description of their method... at a press
+   conference. B4 peer review.
+ * Scientists were unable to replicate the result. 
+ * Science community accused {Pons, Fleischmann} of fraud. Also angry
+   since work was not peer-reviewed first.
+ * Result: Public image of science reduced.
+
+45% of surveyed journals do *not* have a data sharing policy.
+
+Private companies sponsoring R&D expect a return for their
+investment. If none arrives, they
+ * stop sponsoring, or
+ * use trade secrecy to protect data and results.
+Neither of which are good for advancement of science.
+
+Ways for private companies who invest in R&D to profit from
+investment:
+ * patenting new inventions
+ * copyrighting original work
+ * selling products and services
+
+Celera sell their DNA data, and rights to search in it. Only
+researchers use the data...
+
+Should companies be allowed to profit from selling data? Industry
+needs to be able to profit from their data, but researchers aren't
+even allowed to search in it..
+
+Analogy: In journals, you can read/search abstracts before paying for
+the full paper. (two-tier system)
+
+Perhaps this two-tier system also works for data.
+ * raw data
+ * analyzed data
+First tier allows researchers to confirm published results, without
+making researchers able to produce new research and innovations.
+
+
+
+
