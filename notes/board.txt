@@ -10,8 +10,96 @@ Case: Industry in chairs
    - non-domination. Committee as a whole not 
      dominated by 1 company or industry
 
+General problems:
+* Industry, with "unlimited funding" + legal actions, has too much
+  power. This has to stop.
+* University starts lookign like an enterprise.
+   - Technology-licencing results; belongs to university (who are
+     beginning to belong to industry).
+* Industry hides flaws, making results look nicer. This is embarassing
+  for the University.
+
+* Industry's prime motivator: Profit. This affects university people
+  working for industry: 
+   - publication bias
+   - ghostwriting
+   - study-design bias (scenario favourable to company)
+
 General solution:
 * University research should be independent of individual company
   needs (make law)
-* Industry, with "unlimited funding" + legal actions, has too much
-  power. This has to stop.
+* Collective guidelines for cooperation with industry.
+
+Focus of report: Intellectual Property.
+
+
+Case: The Master Student.
+-------------------------
+
+Stakeholders:
+ * Petr Taborsky
+ * University/Professor
+ * Company
+
+Let {University, Company} = Godzilla.
+
+Facts:
+ * Taborsky working on company-sponsored research
+   project. (Godzilla)
+ * Project: Remove ammonia from wastewater.
+ * Taborsky received (word-of-mouth) permission
+   from professor to pursue his own research 
+   approach.
+ * Taborsky discovers commercially promising way to
+   remove ammonia from wastewater.
+ * Godzille lays claim to Taborsky's work.
+ * Godzilla takes legal action (> 10*normal fee spent)
+ * Taborsky convicted of stealing university property.
+ * Taborsky sent to maximum security prison.
+ * Media gets aware of this.
+ * Governor Lawton Chiles intervenes, offering clemency.
+ * Taborsky refuses.
+
+Uncertainties:
+ * How did Taborsky receive the permission? (unclear)
+    - Word-of-mouth (trust-based)
+    - Contract
+
+Missing information:
+ * Witnesses
+ * How new is Taborsky's idea?
+
+Points of conflict:
+ * Taborsky's idea + profit
+ * Godzilla's profit
+
+Ethical issues:
+ * IP.
+ * Trust-based word-of-mount contract. (one would think that this
+   would be sufficient in a university. But it is not). For some
+   reason, university is more interested in money that scientific
+   progress.
+
+Values at stake:
+ * Taborsky's carreer
+ * Financial health of Taborsky
+ * Financial health of Godzilla
+
+Taborsky's ethical obligation to Godzilla:
+ * If idea belonged in part to Godzilla, they deserve piece of the
+   pie.
+ * see TODO.
+
+Options:
+ * see TODO
+
+
+TODO:
+-----
+ * Find options to solving this ethical problem.
+    - where should the decision be taken.
+      (too late when Godzilla gets wind of Taborsky's idea)
+ * Find analogous cases: IP issues in university.
+ * Create different scenarios.
+ * Find professional code of ethics for this case.
+ * Summarize / Expand "lessons learned" from papers.
