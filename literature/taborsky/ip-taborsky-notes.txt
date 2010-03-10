@@ -1,0 +1,25 @@
+Taborsky
+--------
+
+See ../ip/ip-thepie-notes.txt
+
+Some facts:
+
+ * Taborsky was a student.
+ * Taborsky was also an employee.
+ * Taborsky was funded by project grant from "Florida Progress".
+ * During which time no results turned up.
+ * Taborsky was then funded by other budgets.
+ * During which time Taborsky made a discovery.
+ * "Florida Progress" lays claim.
+
+Willard's observations:
+
+ * He made the discovery "after hours". He was not working, so he
+   could argue that the "work-for-hire" docrine does not apply to
+   him.
+ * Depends on how the "Florida Progress" contract was stated. What did
+   it say about derivative work?
+ * Taborsky was threatened: "Give us your IP, or go to prison". He
+   refused. What happened to the IP? Does he still have it? (in which
+   case, he has millions waiting for him when he gets out of jail)

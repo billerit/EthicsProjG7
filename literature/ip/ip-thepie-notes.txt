@@ -1,0 +1,43 @@
+The Intellectual Property Pie
+-----------------------------
+
+Main questions in this short article:
+ a) What can be protected by IP law?
+ b) Who gets the IP rights?
+
+Regarding a): Consider the following:
+ 1) Ideas (in your head or on paper) 
+ 2) "Original, tangible expression and useful invention".
+
+The latter can be protected by IP law. The former cannot. Example: If
+someone steals your idea for a paper, no law is broken. If someone
+plagiarizes some of your text, that someone has stolen from you.
+
+GRAYNESS: The space between 1) and 2).
+
+Regarding b): The devil's contract (work-for-hire doctrine):
+
+  Employers own the intellectual property rights to works created by
+  the employees acting within the scope of their employment.
+
+GRAYNESS: The scope of your employment:
+ * How close is your idea to the work you are paid to do?
+ * Is your employee a university, and are you also a student there?
+
+When sponsors are involved, the sponsors might require that they own
+the IP (which the university would otherwise have) related to the
+project at hand (see GRAYNESS just above).
+
+---
+
+Author's suggestion:
+ * Know your rights.
+ * Avoid contracts which
+    * delay publication time
+    * reserve final editorial discretion
+ * Ex: Ask if you can
+    * use your work in your teaching,
+    * distribute your work at scolarly conferences,
+    * post it on the web at some point,
+    * create derivative work from it.
+ * REQUIRE professional credit for your work.
