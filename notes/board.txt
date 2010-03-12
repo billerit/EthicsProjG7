@@ -94,26 +94,59 @@ Options:
  * see TODO
 
 Taborsky's ethical obligation to Godzilla:
-The information is not clear on whether Taborsky was using his part time to continue the research. 
-However, the university or lab has given him enough support to let him continue his research and get some result. The university deserves a piece of pie. 
+The information is not clear on whether Taborsky was using his part time
+to continue the research. 
+However, the university or lab has given him enough support to let him 
+continue his research and get some result. The university deserves 
+a piece of pie. 
+
 Options and consequences :  
-As Dan Fisher(Chair of IEEE-USA IP committee) said, universities have to be clear with student employees about whether they are hired to invent or not and should include notices in
-catalogs and other obvious places that tell students where they can view a copy of the university policies. However, it's ambiguous all over the country.  
-The reason to have the IP policy is to let the university or company have flexibility to interpret it in their way.
+As Dan Fisher(Chair of IEEE-USA IP committee) said, 
+universities have to be clear with student employees about 
+whether they are hired to invent or not and should include notices in
+catalogs and other obvious places that tell students 
+where they can view a copy of the university policies. 
+However, it's ambiguous all over the country.  
+The reason to have the IP policy is to let the university or company 
+have flexibility to interpret it in their way.
  
 Option1:
 Taborsky’s option:
-The thing he did at the first place is to talk to Florida Progress representative and his professor. Why didn’t him consult with university patent office. 
-There is a gray area in the law. He should look careful at the university policy of IP before he released his news of awesome discovery. If the policy is not fair to him, he could postpone it after he graduated.  
+The thing he did at the first place is to talk to 
+Florida Progress representative and his professor. 
+Why didn’t him consult with university patent office. 
+There is a gray area in the law. 
+He should look careful at the university policy of IP 
+before he released his news of awesome discovery. 
+If the policy is not fair to him, 
+he could postpone it after he graduated.  
+
 Consequence : 
-He could face the risk that someone is doing the same thing and apply patent before he has the opportunity. 
-The Godzille can still sue him, but they have very little proof to win the trial.
-Option 2: To essentially solve the problem is to change the system and the policy. It’s clearly the Florida progress has significant influence in USF, such that the professor and USF board need to do something to reassure the company. That leads to our case 1 solution, the university should get funding from multiple sources instead of keeping close relation with one. 
+He could face the risk that someone is doing the same thing 
+and apply patent before he has the opportunity. 
+The Godzille can still sue him, 
+but they have very little proof to win the trial.
+
+Option 2: To essentially solve the problem is to 
+change the system and the policy. 
+It’s clearly the Florida progress has significant influence in USF, 
+such that the professor and USF board need to 
+do something to reassure the company. 
+That leads to our case 1 solution, 
+the university should get funding from multiple sources 
+instead of keeping close relation with one. 
+
 Assessment &  Action 
 Option1
-By all means of test, publicity, reversibility, etc. the action cannot satisfy everyone except the individual. However, there is no fair policy, why should people follow.  
+By all means of test, publicity, reversibility, etc. 
+the action cannot satisfy everyone except the individual. 
+However, there is no fair policy, why should people follow.  
+
 Option2 
-In every perspective, this is the best way. Except the Florida progress won’t be satisfied. The university is a public resources, it should keep it supreme dominate position in front of the industrial partner. 
+In every perspective, this is the best way. 
+Except the Florida progress won’t be satisfied. 
+The university is a public resources, 
+it should keep it supreme dominate position in front of the industrial partner. 
 
 
 TODO:
