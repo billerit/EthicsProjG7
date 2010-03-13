@@ -1,14 +1,16 @@
 \documentclass[draft,11pt,openright,monochrome,british,a4paper]{scrartcl}
 
 %% PACKAGE LOADING
+\usepackage[footnote,nomargin,index]{fixme}
 
 %% NEW COMMANDS
+\newcommand{\willard}[1]{\fixme{#1\textbf{\ --- Willard:}}}
 
 %% BEGIN DOCUMENT
 
 \begin{document}
 %% TITLE, HEAD, FORMATTING, ETC.
-\title{A Case Analysis in Industry-University Research Ethics}
+\title{Taming the Beast: A Case Analysis in Industry-University Research Ethics}
 \author{Willard Rafnsson \and Szhau Lai \and Sadegh Seddighi Khavidak}
 \subtitle{Project by Group 7}
 \date{March 15, 2010}
@@ -17,10 +19,47 @@
 
 %% CONTENT GOES BELOW THIS LINE
 
-Here is where we write our report.
-
-This is a test.
+\willard{We need to include mini-summaries of cases and examples
+  supporting the claims we make here. We also need to elaborate more
+  on ``lessons learned''. Most importantly, we must explain how IP
+  plays a key role here!}
+\begin{itemize}
+\item Universities: Institutes for unbiased critical thinking. Goal:
+  Advance society, improve quality of life.
+\item Industry: Business enterprise. Goal: Profit.
+\item Industry is funding research in universities. Increasingly. Which would be great, except\ldots{}
+\item Problems (some horror stories):
+  \begin{itemize}
+  \item Industry tailors test results to their favour.
+  \item Industry blocks publications which discredit their work / hurt their industry.
+  \item Industry influences education.
+  \end{itemize}
+\item Benefits (industry money is not all bad):
+  \begin{itemize}
+  \item Industry helps bring the results of science into the market.
+  \item Industry funds research.
+  \item Industry (for its own selfish reasons) is helping improve our quality of life.
+  \end{itemize}
+\item Industry wants our innovations, we want their money. \textbf{If
+    reins are let go}, industry assimilates universities (consequences
+  of that: university becomes a business, people loose trust in it,
+  \ldots{}). How much do we let the universities get away with? How do
+  we prevent assimilation?
+  \begin{itemize}
+  \item Make sure to be funded from multiple independent partners.
+  \item If you must invite industry into the university board, make
+    sure they are a minority, and no single industry dominates.
+  \item Laws on the following should be past: University research should be independent of individual
+    company needs (make law)
+  \item A collective guidelines for cooperation with industry must
+    be made.
+  \item See \cite{pain2008}, section ``strings''.
+  \end{itemize}
+\end{itemize}
 
 %% NO MORE CONTENT BELOW THIS LINE
+
+\bibliographystyle{alpha}
+\bibliography{bibliography}
 
 \end{document}
