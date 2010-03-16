@@ -2,9 +2,18 @@
 
 %% PACKAGE LOADING
 \usepackage[footnote,nomargin,index]{fixme}
+\usepackage[pdftex,
+            a4paper,
+            pdftitle={Taming the Beast: A Report on Industry-University Research Ethics},
+            pdfauthor={Willard Rafnsson, Szhau Lai, Sadegh Seddighi Khavidak},
+            pdfsubject={Research Ethics},
+            pdfkeywords={Ethics, Industry, University, Patent, Intellectual Property},
+            bookmarksopen=false]{hyperref} % links etc. i bib        
 
 %% NEW COMMANDS
 \newcommand{\willard}[1]{\fixme{#1\textbf{\ --- Willard:}}}
+
+%% PREP
 
 %% BEGIN DOCUMENT
 
@@ -13,7 +22,7 @@
 %\title{Taming the Beast: A Case Analysis in Industry-University Research Ethics}
 \title{Taming the Beast}
 %\subtitle{Project by Group 7}
-\subtitle{A Case Analysis in Industry-University Research Ethics}
+\subtitle{A Report on Industry-University Research Ethics}
 \author{Willard Rafnsson \and Szhau Lai \and Sadegh Seddighi Khavidak}
 \date{March 15, 2010}
 \subject{Ethics, Science \& Society}
@@ -23,7 +32,7 @@
 \section{Introduction}
 In the red corner we have the \emph{University}. Its role in society
 is to be a place of unbiased inquiry, basic research, and critical
-thinking\cite{washburn2001}, advancing and improving the quality of
+thinking~\cite{washburn2001}, advancing and improving the quality of
 life through dissemination of knowledge. In the blue corner we have
 the \emph{Industry}. All its activity is driven by a single purpose:
 Profit~\cite{pain2008}. What is at stake is the integrity of the
@@ -45,11 +54,11 @@ publication by months or even years\footnote{Steven Rosenberg, a
   cancer researcher, is often asked to sign agreements to keep results
   of his research secret for up to 10 years, just to get access to
   reagents for his work.\cite{washburn2001}}, iii) right to review a
-publication for confidential or patentable data, iv)
-forbidding or limiting the scientist from sharing his discoveries or
-extending on his work, v) requiring seats on university board, and vi)
-influencing education curriculum. There are also examples of industry
-blatantly disregarding academic conduct for profit reasons, including
+publication for confidential or patentable data, iv) forbidding or
+limiting the scientist from sharing his discoveries or extending on
+his work, v) requiring seats on university board, and vi) influencing
+education curriculum. There are also examples of industry blatantly
+disregarding ethics and academic conduct for profit reasons, including
 i) doctoring an experiment or its result to yield results more
 profitable for the company, ii) silencing results which are bad for
 the company's business\footnote{Example: Morris silences two
@@ -73,101 +82,239 @@ university is attracted to the industry's money. But as we have seen,
 will compromise the integrity of the university, which plays a vital
 role in society.
 
-An interesting observation made by Washburn on whether patenting and
-licenting research pays off for universities is~\cite{washburn2006}:
-\begin{quote}
-  No. [\ldots{}] The overwhelming majority of the [\$1.3 billion]
-  profits go to less than two dozen schools. And the rest of the
-  schools are barely breaking even or losing money on these commercial
-  activities.
-\end{quote}
+The general problem is that i) industry adds more ``catch''es if it
+can get away with it, and ii) there is no globally-accepted standard
+for industry-university cooperation. \cite{washburn2001} has details
+on i) and ii) \emph{on which we will extend and elaborate}.
 
+As mentioned in~\cite{pain2008}, one of the most quarrelsome issues in
+Industry-University cooperation is IP. In fact, it alone is usually
+the reason behind pt. i)-iv) of ``the catch''es in receiving funding
+from industry\footnote{While the fact that universities optain IP of
+  their researchers' discoveries opens up a world of problems on its
+  own, those are beyond the scope of this report. We do note, though,
+  that in the USA, all but 12 schools are in fact not profiting from
+  obtaining IP of their researchers' ideas~\cite{washburn2006}}. While
+the purpose of IP law is supposedly to promote development of
+knowledge~\cite{alger2001}, IP seems to be having the opposite
+effect. In particular, if industry owns the IP of work done by
+scientists, given the lengths the industry is willing to go to protect
+its IP (we will see an example of this in the next section),
+scientists do not feel they can talk freely to colleagues, in fear
+that one will expose a corporate secret~\cite{washburn2001}.
 
-do they *really* need to impose all these constraints?
+We personally feel IP is a bad idea as it is so prone to abuse by
+industry\footnote{There exist companies which do nothing but obtain IP
+  rights and sue supposed infringers; see~\cite{sco}}. However, we do
+not see a substitute for it, and since it seems to be here to stay, we
+propose
+\begin{enumerate}
+\item[1.] Industry can only demand a \emph{patent}\footnote{A patent
+    is a type of IP: A set of exclusive rights granted by a state to
+    an inventor or their assignee for a limited period of time in
+    exchange for a public disclosure of an invention.} on discoveries
+  (strictly) within the scope of the funded project, only for the
+  duration of the project, and only if the industry promises to profit
+  from the discovery.
+\end{enumerate}
+This allows researchers to discuss discoveries openly and with
+coworkers, thus not hampering dissemination of knowledge, while still
+giving the industry a competitive edge. The patents must be very
+specific, though, as not to give the industry more ammunition for
+``patent-trolling''\footnote{Patent troll is a person/company
+  enforcing its patents against one or more alleged infringers in a
+  manner considered unduly aggressive or opportunistic, often with no
+  intention to manufacture or market the patented invention.}. The
+last part is necessary to ensure that the industry does not ``sit on''
+the discovery (if the funding company is uninterested in profiting
+from the discovery, another company might push the idea to market,
+thus benefiting society).
 
-\willard{We need to include mini-summaries of cases and examples
-  supporting the claims we make here. We also need to elaborate more
-  on ``lessons learned''. Most importantly, we must explain how IP
-  plays a key role here!}\\
+It should be noted that a) the patent duration should vary from field
+to field, and b) patenting does not make sense in all fields. In a), a
+10 year patent may be reasonable in structural engineering, but is
+nearly an eternity in computation science (that discipline is only 70
+years old). In b), assuming mathematical truths cannot be patented,
+then since programs are proofs (by the Curry-Howard
+Isomorphism~\cite{curryhoward}), which are mathematical truths,
+programs are inherently unpatentable. Yet, like most of our DNA, and
+even some numbers, they are copyrighted.
 
-protect their interests (profit). Willing to go to great, unethical, lengths.
-\begin{itemize}
-\item How much do we let the universities get away with? How do we
-  prevent assimilation?
-  \begin{itemize}
-  \item Make sure to be funded from multiple independent
-    partners.\willard{Note that it can be a good idea to have
-      \emph{some} industry members on the board, namely due to the
-      benefits to society industry can bring.}
-  \item If you must invite industry into the university board, make
-    sure they are a minority, and no single industry dominates.
-  \item Laws on the following should be past: University research should be independent of individual
-    company needs (make law)
-  \item A collective guidelines for cooperation with industry must
-    be made.
-  \item See \cite{pain2008}, section ``strings''.
-  \end{itemize}
-\end{itemize}
-
+Industry, while mostly motivated by profit, often get good ideas of
+research directions. It can therefore be in the university's, and
+society's, best interest to allow the industry to take some active
+part in what goes on in the university. However, great care must be
+taken here to control the beast. To make sure that a university does
+not become the tool of a single industry or company, we propose:
+\begin{enumerate}
+\item[2.] Research should always be independent of individual company
+  needs.
+  \begin{enumerate}
+  \item[2a.] Academic division and project funding, if received from
+    industry, should come from multiple independent industries,
+  \item[2b.] Industry representatives, if present in the university
+    board, should be in minority, and from multiple independent industries.
+  \end{enumerate}
+\end{enumerate}
+This diversity would hopefully ensure that i) research in universities
+stays basic, and won't lean towards the practical requirements of a
+particular industrial partner, ii) industry can give its input in
+board meetings, and become aware of what occurs in the university,
+without controlling it. At last,
+\begin{enumerate}
+\item[3.] Universities should not tailor student curriculum to
+  industry needs.
+\end{enumerate}
+Again, the university's duty is to society, not to the industry. While
+the industry can discover topics that should be introduced into
+student curriculum, it should be kept in mind that the goal of
+scientists is to serve society; not generate profit for industry.
 
 We need to plant our foot down. It is ultimately the industry that
 comes to us for creative aid. We must standardise how universities
 interact with industry to maintain the integrity of the university,
 lest the beast runs amok and demolishes our ivory towers.
 
-\section{Case study : The Master Student at University of South Florida}
+\section{Case Study}
+Here we analyse the case of Petr Taborsky, master student at the
+University of South Florida, who was imprisoned for ``stealing his own
+ideas'' from his university and the company which funded a project he
+once worked on. See~\cite{jaroff1997} for details.
+\begin{description}
+\item[Stakeholders:]Petr Taborsky, versus beast: University/Professor and Florida Progress.
+\item[Facts:]mostly in chronologial order:
+  \begin{enumerate}
+    \item Taborsky was a student.
+    \item Taborsky was also an employee.\label{facts:employee}
+    \item Taborsky was funded by project grant from "Florida Progress" to professor.\label{facts:funding}
+    \item During which time no results turned up.
+    \item Professor told Taborsky he could do with his ideas as he pleased.\label{facts:permission}
+    \item Taborsky was then funded by other budgets.
+    \item During which time Taborsky made a discovery, \emph{in his spare time}.
+    \item Taborsky informs beast about discovery at meeting.\label{fact:inform}
+    \item Florida Progress lays claim (Discovery worth millions).
+    \item Taborsky refuses, takes his notes home.\label{fact:refuses}
+    \item Beast sues and wins; obtains notes.
+    \item Taborsky files and obtains patent.
+    \item Beast threatens to sue if Taborsky does not relinquish patent.
+    \item Taborsky refuses.
+    \item Beast sues and wins; Taborsky imprisoned.\label{facts:imprisoned}
+    \item Media becomes aware.
+    \item Governor offers Taborsky clemency.
+    \item Taborsky refuses.
+    \end{enumerate}
+  \item[Uncertainties:]key ones listed as follows:
+    \begin{itemize}
+    \item In~\ref{facts:permission}, how did Taborsky obtain
+      permission? (on paper, word-of-mouth, etc).
+    \item In~\ref{facts:employee}, the working contract (grounds for beast's claims) is dubious.
+    \item In~\ref{facts:funding}, the relation of professor to
+      company and the university's patent policy is not clear.
+    \item In~\ref{facts:imprisoned}, did the beast obtain the patent?
+    \end{itemize}
+  \item[Missing Information:]we noted the following:
+    \begin{itemize}
+    \item Witnesses in~\ref{facts:permission},
+    \item Novelty of Taborsky's idea,
+    \item Case made by accuser and defendant in trial.
+    \end{itemize}
+  \item[Points of Conflict:]Taborsky's profit \& search for truth vs. Beast's profit.
+  \item[Ethical Issues:]These two came to mind:
+    \begin{itemize}
+    \item Trust-based word-of-mouth contract is insufficient in the
+      university environment. One would think it was enough.
+    \item University more intested in profit than scientific progress,
+      or wellfare of its student.
+    \item Taborsky's obligations to the beast: Taborsky did use the
+      beast's facilities to make his discoveries. Beast has grounds
+      for \emph{some} claim.
+    \end{itemize}
+\end{description}
 
-\subsection*{Stakeholders: Petr Taborsky, University/Professor, Florida Progress}
+\subsubsection*{Options and Consequences:}
+Unfortunately there are many uncertainties and much missing
+information, which, if left variable, create an explosion of options
+and consequences. Also, the options depend on where in the sequence of
+events the choice is made. And just to add even more variance:
+\cite{alger2001} explains who has the IP rights of a discovery you
+make while working some someone (work-for-hire doctrine):
+\begin{quote}
+  Employers own the intellectual property rights to works created by
+  the employees acting within the scope of their employment.
+\end{quote}
+We observe, however, that there is ``a gray area'' here: What is the
+scope of employment? How close is the idea to what the employee is
+paid to do? Also, the ``work-for-hire'' doctrine only applies if you
+did the work as an employee. A student who is also an employee can
+thus argue that he did the patentable work as a student, and perhaps
+dodge the ``work-for-hire'' doctrine altogether.
 
-\subsection*{Facts}
-
-
+We start with an option 0:
 \begin{itemize}
-\item   Project: Remove ammonia from waste water.
-\item	Taborsky continued working on company-sponsored research project after it was terminated, and he got the permission from professor (word of mouth).
-\item	He god a good result and was told that his idea worth million. The professor and the company request him to deliver his discovery. Taborsky refused.
-\item	Taborsky applied for patent and the University threatened him to hand over the patent to USF or put him in jail. Taborsky refused and was sent to chain gang.
-\item	Professor applied for another patent after Taborsky but failed to provide experiment data. Either to reassure the company or give support to the patent application, the university wants Taborsky in jail by every means.
-\item	Media gets aware of this and Governor offered Taborsky a clemency, which Taborsky refused.
+\item \textbf{Option 0:} Before~\ref{fact:inform}, Taborsky could get
+  the professor's promise that he can do what he wishes with his work
+  on paper. \emph{Consequence:} If Taborsky succeeds, he might own his
+  idea (unless something about the employment contract makes the
+  professor's written promise void). However, this is likely to arouse
+  suspicion in the professor.
+\end{itemize}
+While an interesting option, we feel that the most interesting
+decision point is \ref{fact:refuses}. This is where Taborsky learns
+about the value of his discovery, and where the decision Taborsky
+makes will dramatically affect his future (as we have seen).
 
+We will pick three options due to space constraints. These are:
+\begin{itemize}
+\item \textbf{Option 1:} Taborsky could optain his contract and IP
+  obligations from the university (without talking to his professor,
+  to avoid arousing suspicion), and when threatened by the beast,
+  present the case to a lawyer, or the ``ethics police''. Taborsky
+  will likely end up in a web of lengthy trials and court hearings,
+  but if he manages to build a strong case (depends on his contract;
+  if the beast ``owns Taborsky's brains'', there is not much Taborsky
+  can do), he should win, despite how much money the beast throws into
+  the trial.
+
+\item \textbf{Option 2:} Taborsky could flee to his home country, The
+  Czech Republic, make his government aware that he might become an
+  outlaw in USA, and market his idea from home.
+
+\item \textbf{Option 3:} Taborsky could negotiate with the beast. They
+  did offer him a staff job. If he informs them that the discovery was
+  made outside his contract, yet within their lab, and as a follow-up
+  of contracted work, he could accept a staff job and a profit
+  percentage.
  \end{itemize}
  
-\subsection*{Uncertainties:}
-How did Taborsky receive the permission is unclear. The working contract (proof) is dubious. The relation of professor to company and the university's patent policy is not clear.
-
-\subsection*{Missing information:}
-Witnesses and the novalty of Taborsky's idea.
-
-\subsection*{Points of conflict:}
-Taborsky's idea and profit vs University and company's profit.
-
-\subsection*{Ethical issues:}
-Trust-based word-of-mount contract. (one would think that this would be sufficient in a university. But it is not). For some reason, university is more interested in money that scientific progress.
-
-Taborsky's ethical obligation to University/Professor:
-The University/Professor deserve piece of the pie for the facility Taborsky has used in the lab, even the idea is his own.
-
-\subsection*{Options and consequences :}
+\subsubsection*{Assessment \& Action}
 \begin{itemize}
-\item Option1: Taborsky's option
-Taborsky talk to Florida Progress representative and his professor first but end up as unsatisfied result. He could consult the university patent office to check the IP policy. If the policy is not fair to him, he could postpone it after he graduated.
-Consequence1 : He could face the risk that someone is doing the same thing and apply patent before he has the opportunity. The company and university can still sue him, but they have very little proof to win the trial.
+\item \textbf{Option 2:} While Taborsky would prosper in the Czech
+  Republic, he would never be able to visit USA again. His wife might
+  not even be able to follow. This decision is a little unfair to the
+  beast, as this discovery was made using their facilities. Finally,
+  this decision will only allow the beast to oppress other students in
+  the future.
 
-\item Option 2: To essentially solve the problem is to change the system and the policy. It's clearly the Florida progress has significant influence in USF, such that the professor and USF board need to flatter the company.
-That leads to our case 1 solution, the university should get funding from multiple sources instead of keeping close relation with one.
-Consequence2 : In every perspective, this is the best way. Except the Florida progress won't be satisfied.
+\item \textbf{Option 3:} Knowing what industry is capable of, this is
+  also a fairly safe option, which the beast would indeed be happy
+  with as well. However, he would be working for a company that just
+  cheated him out of millions. Who knows what kind of working
+  environment he will be in.
+
+\item \textbf{Option 1:} Perhaps a dangerous option, Taborsky could
+  offer a fraction of his earnings to the beast for the use of his
+  facilities. The beast will not be very pleased, but it did had
+  little claim to the discovery in the first place. It would be good
+  if any scientist made this decision, as the industry should not be
+  allowed to get away with this kind of ``theft/bullying''.
  \end{itemize}
- 
-\subsection*{Assessment \& Action}
-\begin{itemize}
-\item By all means of test, publicity, reversibility, etc. the action cannot satisfy everyone except the individual. However, there is no fair policy, why should people follow.
-\item Option2
-The university is a public resources, it should keep it supreme dominate position in front of the industrial partner. Option2 solve the problem for future, but it's difficult to implement it.
- \end{itemize}
+
+We choose: Option 1.
 
 %% NO MORE CONTENT BELOW THIS LINE
-
-\bibliographystyle{alpha}
+\enlargethispage{30px}
+\small
+\bibliographystyle{alphaurl}
 \bibliography{bibliography}
 
 \end{document}
@@ -288,7 +435,7 @@ The university is a public resources, it should keep it supreme dominate positio
 
 %% NO MORE CONTENT BELOW THIS LINE
 
-\bibliographystyle{alpha}
+\bibliographystyle{plainnat}
 \bibliography{bibliography}
 
 \end{document}
