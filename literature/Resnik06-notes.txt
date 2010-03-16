@@ -1,0 +1,121 @@
+Resnik 2006:
+Some Recent Challenges to Openness and Freedom in Scientific
+Publication
+---------------------------------------------------------------
+
+Private sector sponsors over 1/2 of R&D in the world.
+
+Business money into science:
+ + Benefitted researchers, universities, business and society
+ - Openness and fairness in research
+
+To industry, research is a necessary means to *PROFIT*. Openness and
+freedom can be thrown out the window for the sake of profit.
+
+Willard: Case example: Researcher hired by industry.
+
+Scientist working at company:
+
+  "Company will usually make him sign a contract in which he agrees
+   that the company owns all of his data and has the authority to
+   review and approve any of his publications."
+
+Why would industry want to prevent researchers from publishing
+results?
+
+ 1. IP. If the result (invention) is published, the idea is not novel
+    anymore, so the industry cannot patent it.
+ 2. Maintain secrecy to secure competitive advantage / silence
+    incriminating results.
+
+Willard: Case: IP.
+ * In many fields, distance from theory to product is great.
+ * In computer science, the distance is 0.
+ * This one thing a computer scientist can do, even in his spare time,
+   is owned by the university.
+
+Case: Tobacco industry. {DeNobel, Mele} working for Morris.
+ * {DeNobel, Mele} discover that Nicotine is highly addivtive.
+ * {DeNobel, Mele} discover a substance increasing addictiveness while
+   making cigarettes healthier for blood vessels.
+ * Were not allowed to discuss their results, until much later, when a
+   congressman overruled the contract.
+
+Case: Useless drugs. Dong, working for Boots.
+ * Dong finds that Synthroid drug is less useful than general,
+   main-stream drugs
+ * US would save millions to just use the main-stream drugs.
+ * Boots threatened to sue Dong, and spent 2 years discrediting the
+   paper. Dong eventually pulled the paper from publication.
+
+Case: Dangerous drug. Olivieri+ vs. ApotexInc.
+ * Paper on "deferiprone", reporting that the drug was effective at
+   reducing total body iron stores, with manageable side effects.
+ * Months later, Olivieri+ discover liver iron in patients is
+   dangerously high. Could lead to heart failure.
+ * Olivieri wanted to notify the "research ethics board", so patients
+   could learn about this. She did...
+ * Consequence: ApotexInc terminated study, and withdrew all supplies
+   of the drug. Threatened Olivieri+ legal actions if she told
+   patients, or scientific community. ApotexInc + hospital tried to
+   discredit her work, and ruin her carreer.
+
+Morale?
+
+  "universities should not allow their faculty to sign contracts that
+   grant private companies the right to block the publication of
+   research conducted on campus.  No private company should be able to
+   suppress academic research."
+
+[[Private industry and access to data from published research]]
+
+Industry a threat to search for truth: Access to data after
+publication.
+
+Reasons scientists may refuse to share data:
+ * protect unpublished work
+ * secure priority
+ * protect IP rights
+ * data sharing inconvenient / expensive.
+ * data is inconclusive / unconfirmed.
+
+Case: Cold Fusion. {Pons, Fleischmann}
+
+ * Believed they had discovered how to produce fusion at room
+   temperature in an electrolytic solution.
+ * Presented incomplete description of their method... at a press
+   conference. B4 peer review.
+ * Scientists were unable to replicate the result. 
+ * Science community accused {Pons, Fleischmann} of fraud. Also angry
+   since work was not peer-reviewed first.
+ * Result: Public image of science reduced.
+
+45% of surveyed journals do *not* have a data sharing policy.
+
+Private companies sponsoring R&D expect a return for their
+investment. If none arrives, they
+ * stop sponsoring, or
+ * use trade secrecy to protect data and results.
+Neither of which are good for advancement of science.
+
+Ways for private companies who invest in R&D to profit from
+investment:
+ * patenting new inventions
+ * copyrighting original work
+ * selling products and services
+
+Celera sell their DNA data, and rights to search in it. Only
+researchers use the data...
+
+Should companies be allowed to profit from selling data? Industry
+needs to be able to profit from their data, but researchers aren't
+even allowed to search in it..
+
+Analogy: In journals, you can read/search abstracts before paying for
+the full paper. (two-tier system)
+
+Perhaps this two-tier system also works for data.
+ * raw data
+ * analyzed data
+First tier allows researchers to confirm published results, without
+making researchers able to produce new research and innovations.

@@ -1,0 +1,88 @@
+Pain 2008:
+Playing Well With Industry
+--------------------------
+
+Yamaha: Computers playing music like humans do.
+
+[[Lure of industry money]]
+
+Industry's goals: To profit.
+ * Often align well with interests of researchers
+ * ... but rarely perfectly.
+
+More than 1/4 life science researchers have received support through
+industry grant agreement and research contracts.
+
+Government funding runs low; Deep pockets of private sector is
+alluring.
+
+Industry helps bring the result of science into the market (medicine).
+
+But Industry's *PROFIT* motive can affect research.
+ * Tobacco industry funding biased research to improve public image.
+ * Oil/Gas companies have too much control over
+    - choice of on-campus research
+    - Intellectual Property rights,
+    - Power to review/delay publications.
+ * Research cannot disfavour the company funding it.
+ * Cannot share the data.
+ * Sweep negative results under the rug (drug has bad effects => don't
+   publish it)
+
+Some of these exist within research institutions anyways, though.
+
+[[Industry gifts: A free lunch?]]
+
+Gifts of equipment/fellowship/grant from industry with few strings
+attached is common in the research world.
+
+Often, however, there are strings. Sometimes they are not even written
+into the contracts.
+
+almost 1/2 life science researchers have received gifts from
+industry. Here are some strings:
+ * Only use gifts for what company allows.
+ * Test company products.
+ * Company reviews papers before publication.
+ * Company owns patentable results.
+
+It is in the researcher's interest to please the company.
+
+Industry checks on progress regularly.
+
+... but so does the government.
+
+[[Strings]]
+
+Hazardous way to get company money: Work on projects of mutual
+interest. You WILL have to trade away some freedom.
+ * for instance, data- and result-reporting.
+
+What compromises are okay?
+
+  "Accepting industry money is fine as long as academics don't
+   compromise the academic missions of their universities"
+
+Tipping point: When cooperation with industry compromises:
+
+  "promote the public good through training students and pursuing
+   research on important issues"
+
+Examples:
+ * Delay a student's progress towards a degree
+ * Focus from broad questions to focused questions of little interest
+   to almost anyone except your company
+
+One of most quarrelsome issues: IP (INTELLECTUAL PROPERTY). Willard
+agrees.
+
+Willard: Aalborg University can claim ownership of *anything* that you
+do when you are employed there. Granted, the policy is that they
+choose not to if you open-source your work, but still.
+
+What most big-heads agree on: Universities keep IP rights, Industry is
+allowed to commercialize innovations.
+
+Right of first refusal: If you give it to A, then if you wish to sell
+your idea, you must first ask A if they plan on profiting on
+it. Universities often give this to companies.
