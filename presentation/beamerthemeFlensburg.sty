@@ -1,0 +1,52 @@
+% Copyright 2007 by Till Tantau
+%
+% This file may be distributed and/or modified
+%
+% 1. under the LaTeX Project Public License and/or
+% 2. under the GNU Public License.
+%
+% See the file doc/licenses/LICENSE for more details.
+
+\ProvidesPackageRCS $Header: /cvsroot/latex-beamer/latex-beamer/themes/color/beamercolorthemeseagull.sty,v 1.5 2007/01/28 20:48:24 tantau Exp $
+
+
+\mode<presentation>
+
+% Basic Templates
+\usetheme{Ilmenau}
+\useoutertheme{shadow}
+% ---
+
+% Modifications to the template
+
+%  - Colour
+\setbeamercolor{structure}{fg=IndianRed4}
+%\setbeamercolor{structure}{fg=Red4!80}
+
+%  - Fixing the colour of the Example boxes
+\setbeamercolor{block title example}{use=structure text,fg=white,bg=structure.fg!75!black}
+%\setbeamercolor{block title example}{use=block title theorems}
+\setbeamercolor{block body example}{parent=normal text,use=block
+  title,bg=block title.bg!10!bg}
+
+%  - Overriding the footer-definition from the miniframes outertemplate.
+\setbeamertemplate{footline}
+  {%
+    \begin{beamercolorbox}[colsep=1.5pt]{upper separation line foot}
+    \end{beamercolorbox}
+    \begin{beamercolorbox}[ht=2.5ex,dp=1.125ex,%
+      leftskip=.3cm,rightskip=.3cm plus1fil]{author in head/foot}%
+      \leavevmode{\usebeamerfont{author in head/foot}\insertshortauthor}%
+      \hfill%
+      {\usebeamerfont{institute in head/foot}\usebeamercolor[fg]{institute in head/foot}\hspace\fill\insertframenumber}%
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[ht=2.5ex,dp=1.125ex,%
+      leftskip=.3cm,rightskip=.3cm plus1fil]{title in head/foot}%
+      {\usebeamerfont{title in head/foot}\insertshorttitle\hspace\fill\insertshortsubtitle}%
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[colsep=1.5pt]{lower separation line foot}
+    \end{beamercolorbox}
+  }
+
+\mode
+<all>

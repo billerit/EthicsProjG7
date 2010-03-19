@@ -1,0 +1,46 @@
+% Copyright 2007 by Till Tantau
+%
+% This file may be distributed and/or modified
+%
+% 1. under the LaTeX Project Public License and/or
+% 2. under the GNU Public License.
+%
+% See the file doc/licenses/LICENSE for more details.
+
+\ProvidesPackageRCS $Header: /cvsroot/latex-beamer/latex-beamer/themes/outer/beamerouterthemeinfolines.sty,v 1.9 2007/01/28 20:48:30 tantau Exp $
+
+
+\mode<presentation>
+
+%\setbeamercolor*{section in head/foot}{parent=palette tertiary}
+%\setbeamercolor*{subsection in head/foot}{parent=palette primary}
+
+\defbeamertemplate*{headline}{mylinearhead theme}
+{
+  \leavevmode%
+  \hbox{%
+  \begin{beamercolorbox}[wd=\paperwidth,ht=3ex,dp=1ex,left]{subsection in head/foot}%
+    \hskip8pt\usebeamerfont{section in head/foot}\insertsectionhead%
+    \ifthenelse{
+      \not\equal{\insertsubsectionhead}{}
+    }
+    {
+      \hspace*{2ex}$\blacktriangleright$\hspace*{2ex}\insertsubsectionhead%
+      \ifthenelse{
+        \not\equal{\insertsubsubsectionhead}{}
+      }
+      {
+        \hspace*{2ex}$\blacktriangleright$\hspace*{2ex}\insertsubsubsectionhead%
+      }
+      {}
+    }
+    {}%
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+
+%\hspace*{2ex}$\blacktriangleright$\hspace*{2ex}\insertsubsectionhead\hspace*{2ex}$\blacktriangleright$\hspace*{2ex}\insertsubsubsectionhead
+\setbeamersize{text margin left=1em,text margin right=1em}
+
+\mode
+<all>

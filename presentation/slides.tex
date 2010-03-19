@@ -1,0 +1,60 @@
+\documentclass[12pt,xcolor=x11names,mathserif,british,slidestop]{beamer} % default font size 11
+
+%% PACKAGE LOADING
+
+\usepackage{amsmath}         % if you do any math, you need this.
+\usepackage{mathtools}       % extensions/bugfixes to amsmath.
+\usepackage{amssymb}         % if you do any math, you need this.
+\usepackage{enumerate}       % nicer enumerations.
+\usepackage{verbatim}        % to get a comment environment
+\usepackage{babel}           % better non-english character support.
+\usepackage[utf8x]{inputenc} % better non-english character support.
+\usepackage[T1]{fontenc}     % better non-english character support.
+\usepackage{cmsd}            % old-fashioned CM Sans Serif Bold with EC (T1 font-encoding)
+\usepackage{tikz}            % draw figures programmatically.
+\usetikzlibrary{calc}
+\usepackage[all]{xy}         % draw figures programmatically.
+\usepackage{ifthen}          % contains \ifthenelse command (needed to compile slides).
+
+%% NEW COMMANDS
+
+\newcommand{\mycolour}{SlateBlue4}
+\newlength{\imgwidth}
+\setlength{\imgwidth}{5.5cm}
+\newlength{\pagewidth}
+\setlength{\pagewidth}{\paperwidth-2.5\baselineskip}
+
+%% TITLE, HEAD, FORMATTING, ETC.
+
+\title{Taming the Beast}
+\subtitle{Industry-University Research Ethics}
+\author{Willard Rafnsson \and Szhau Lai \and Sadegh Seddighi Khavidak \and Celine Billerit}
+\date{March 22, 2010}
+\institute{Chalmers University of Technology}
+
+\usetheme[right]{CorpusChristi}
+\usenavigationsymbolstemplate{}
+\setcounter{tocdepth}{2}
+
+\bibliographystyle{alpha}
+
+\begin{document}
+
+\AtBeginSection[]
+{
+  \begin{frame}<beamer>
+    \frametitle{Outline}
+    \tableofcontents[currentsection]
+  \end{frame}
+}  
+
+\frame{\titlepage}
+
+%% CONTENT GOES BELOW THIS LINE
+
+
+
+
+%% NO MORE CONTENT BELOW THIS LINE
+
+\end{document}
