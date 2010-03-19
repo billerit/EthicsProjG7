@@ -1,7 +1,6 @@
 
 
-ORIG:=handin
-PROJECT:=output
+PROJECT:=report
 
 BIBFILE:=bibliography.bib
 
@@ -33,7 +32,6 @@ _%.tex: %.tex
 	ln -s $< $@
 
 _%.dvi _%.pdf: _%.tex
-	lhs2TeX --poly $(ORIG).tex  > $(PROJECT).tex
 	if echo $@ | grep 'pdf$$' >/dev/null;\
 	  then export CMD="$(PDFLATEX)";\
 	  else export CMD="$(LATEX)";\
@@ -64,7 +62,6 @@ _%.dvi _%.pdf: _%.tex
 	fi
 
 _%.ps: _%.dvi
-	lhs2TeX --poly $(ORIG).tex  > $(PROJECT).tex
 	dvips -o $@ $<
 
 %.dvi: _%.dvi
